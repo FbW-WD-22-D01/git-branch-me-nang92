@@ -41,7 +41,7 @@ git config --global init.defaultBranch main
 
 
 # THANG
-1. Pull 
+1. Pull:
 git pull 
-2. Run readme.sh
+2. Run readme.sh: 
 bash readme.sh
