@@ -38,3 +38,6 @@ Du kannst den namen der Standard-Branch einstellen, wenn es nötig ist:
 ```bash
 git config --global init.defaultBranch main
 ```
+
+
+# THANG
