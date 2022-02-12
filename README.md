@@ -21,7 +21,8 @@ git config --global init.defaultBranch main
 
 
 # THANG
-1. Pull:
+1. git clone git@github.com:FbW-WD-22-D01/git-branch-me-nang92.git
+2. Pull:
 git pull 
-2. Run readme.sh: 
+3. Run readme.sh: 
 bash readme.sh
